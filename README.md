@@ -14,7 +14,7 @@
 
 </p>
 
-Meu nome é Kevin Brandão, tenho 24 anos, moro em Franca-SP Brasil. Atualmente estou estudando Desenvolvimento de software múltipla plataforma  na <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca </a> e sou formado em Analise Desenvolvimento de Sistema pela Anhanguera e atualmente trabalhando na <a href = "https://mazzafc. tech/">MazzaFC</a> como  lider de Garantia de Qualidade. Sou apaixonado por tecnologia e quero trabalhar na área de CyberSecurity, mas também gosto de trabalhar com criação de sites usando JavaScript, HTML e CSS. Quero aprender C#, Java e outras linguagens de programação. Gosto mais de trabalhar com programação Back-end do que Front-end, então concentro meus estudos aprendendo mais Java e JavaScript.
+My name is Kevin Brandão, I'm 24 years old, I live in Franca-SP Brazil. I am currently studying Multiplatform Software Development at <a href="https://site.fatecfranca.edu.br/"> Fatec - Franca </a> and I have a degree in System Development Analysis at <a href="https ://anhanguera.com.br"> Anhanguera - Franca </a> and currently working at <a href="https://mazzafc. tech/">MazzaFC</a> as a Quality Assurance leader. I'm currently preparing to be a PHP Developer.
 
 ## <b> 📖 Knowledge:</b>
 
