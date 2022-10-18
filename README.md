@@ -60,6 +60,7 @@ In the future I intend to continue with the information security and cyber secur
 - ### <b> DataBase: </b>
   - <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code>
   <!--
   - <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
