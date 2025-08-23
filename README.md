@@ -3,23 +3,17 @@
 ## <b> 💬 About me:</b>
 
 <p align="left">
-
   <a href="https://www.linkedin.com/in/kevin-de-almeida-brand%C3%A3o-903b16138" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
-
   <a href="mailto:kevinmsbrandao@gmail.com" alt="Gmail">
     <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieltonhatti37@gmail.com" />
   </a>
-
 </p>
 
 My name is Kevin Brandão, I'm 24 years old, and I live in Franca, São Paulo. I have a degree in Systems Analysis and Development from <a href="https://anhanguera.com.br">Anhanguera - Franca</a> and am currently studying Multiplatform Software Development at <a href="https://site.fatecfranca.edu.br/">Fatec - Franca</a>.
-
 I also completed two years of Software Engineering at <a href="https://www.unifacef.com.br/">UniFACEF - Franca</a> and have a specialization in Healthcare Informatics from <a href="https://www.unifesp.br/">Federal University of São Paulo (UNIFESP)</a>.
-
 I currently work as a Software Quality Analyst at <a href="https://www.totvs.com/">TOTVS</a>. Prior to that, I worked as a PHP web developer and Software Quality Lead at <a href="https://mazzafc.tech/">MazzaFC</a>.
-
 I have a strong interest in information security and cybersecurity, where I intend to continue specializing and developing my career in the future.
 
 ## <b> 📖 Knowledge:</b>
@@ -27,16 +21,6 @@ I have a strong interest in information security and cybersecurity, where I inte
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # 💻 Tech Stack
-
-<style>
-  .icon-tech {
-    transition: transform 0.2s ease, filter 0.2s ease;
-  }
-  .icon-tech:hover {
-    transform: scale(1.2);
-    filter: brightness(1.3);
-  }
-</style>
 
 ## 🚀 Front-end  
 <p align="left">
@@ -49,8 +33,6 @@ I have a strong interest in information security and cybersecurity, where I inte
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 </p>
-
----
 
 ## ⚙️ Back-end  
 <p align="left">
@@ -65,8 +47,6 @@ I have a strong interest in information security and cybersecurity, where I inte
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 </p>
 
----
-
 ## 🗄️ Banco de Dados  
 <p align="left">
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -77,16 +57,12 @@ I have a strong interest in information security and cybersecurity, where I inte
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
----
-
 ## 📱 Mobile  
 <p align="left">
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
-
----
 
 ## 🛠️ Ferramentas & DevOps  
 <p align="left">
@@ -101,8 +77,6 @@ I have a strong interest in information security and cybersecurity, where I inte
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
-
 ## ✅ Testes  
 <p align="left">
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
@@ -110,5 +84,3 @@ I have a strong interest in information security and cybersecurity, where I inte
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white"/>
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"/>
 </p>
-
-
