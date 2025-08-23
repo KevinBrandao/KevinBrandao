@@ -17,7 +17,8 @@ I currently work as a Software Quality Analyst at <a href="https://www.totvs.com
 I have a strong interest in information security and cybersecurity, where I intend to continue specializing and developing my career in the future.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-## <b> 📖 Knowledge:</b>
+# <b> 📖 Knowledge:</b>
+
 ## 🚀 Front-end  
 <p align="left">
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
