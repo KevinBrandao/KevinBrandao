@@ -14,13 +14,13 @@
 
 </p>
 
-My name is Kevin Brandão, I'm 24 years old, I live in Franca-SP Brazil. I graduated in the Systems Development Analysis course at <a href="https://anhanguera.com.br"> Anhanguera - Franca </a>,
-I am studying Multiplatform Software Development at <a href="https://site.fatecfranca.edu.br/"> Fatec - Franca </a>,
-I did 2 years of Software Engineering at <a href=" https://www.unifacef.com.br/
-”>UniFacef - Franca</a>.
-  Currently working at <a href="https://mazzafc.tech/">MazzaFC</a> as a PHP web developer.
-I worked as Software Quality Leader at <a href="https://mazzafc.tech/">MazzaFC</a>.
-In the future I intend to continue with the information security and cyber security part.
+My name is Kevin Brandão, I'm 24 years old, and I live in Franca, São Paulo. I have a degree in Systems Analysis and Development from <a href="https://anhanguera.com.br">Anhanguera - Franca</a> and am currently studying Multiplatform Software Development at <a href="https://site.fatecfranca.edu.br/">Fatec - Franca</a>.
+
+I also completed two years of Software Engineering at <a href="https://www.unifacef.com.br/">UniFACEF - Franca</a> and have a specialization in Healthcare Informatics from <a href="https://www.unifesp.br/">Federal University of São Paulo (UNIFESP)</a>.
+
+I currently work as a Software Quality Analyst at <a href="https://www.totvs.com/">TOTVS</a>. Prior to that, I worked as a PHP web developer and Software Quality Lead at <a href="https://mazzafc.tech/">MazzaFC</a>.
+
+I have a strong interest in information security and cybersecurity, where I intend to continue specializing and developing my career in the future.
 
 ## <b> 📖 Knowledge:</b>
 
