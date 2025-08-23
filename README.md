@@ -16,12 +16,8 @@ I also completed two years of Software Engineering at <a href="https://www.unifa
 I currently work as a Software Quality Analyst at <a href="https://www.totvs.com/">TOTVS</a>. Prior to that, I worked as a PHP web developer and Software Quality Lead at <a href="https://mazzafc.tech/">MazzaFC</a>.
 I have a strong interest in information security and cybersecurity, where I intend to continue specializing and developing my career in the future.
 
-## <b> 📖 Knowledge:</b>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-# 💻 Tech Stack
-
+## <b> 📖 Knowledge:</b>
 ## 🚀 Front-end  
 <p align="left">
   <img class="icon-tech" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
