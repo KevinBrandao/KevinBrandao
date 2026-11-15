@@ -12,6 +12,9 @@
   <a href="mailto:kevinmsbrandao@gmail.com" alt="Gmail">
     <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieltonhatti37@gmail.com" />
   </a>
+  <a href="https://kevinbrandao-portifolio.vercel.app/curriculo" target="_blank" alt="Imprimir currículo">
+  <img height="30" src="https://img.shields.io/badge/-Imprimir%20Curr%C3%ADculo-2E7D32?style=flat&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </p>
 
 My name is Kevin Brandão, I'm 30 years old, and I live in Franca, São Paulo. I have a degree in Systems Analysis and Development from <a href="https://anhanguera.com.br">Anhanguera - Franca</a> and am currently studying Multiplatform Software Development at <a href="https://site.fatecfranca.edu.br/">Fatec - Franca</a>.
