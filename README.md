@@ -12,8 +12,8 @@
   <a href="mailto:kevinmsbrandao@gmail.com" alt="Gmail">
     <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieltonhatti37@gmail.com" />
   </a>
-  <a href="https://kevinbrandao-portifolio.vercel.app/curriculo" target="_blank" alt="Imprimir currículo">
-  <img height="30" src="https://img.shields.io/badge/-Imprimir%20Curr%C3%ADculo-2E7D32?style=flat&logo=adobeacrobatreader&logoColor=white" />
+ <a href="https://kevinbrandao-portifolio.vercel.app/curriculo" target="_blank" alt="Baixar currículo">
+  <img height="30" src="https://img.shields.io/badge/-Baixar%20Curr%C3%ADculo-2E7D32?style=flat&logo=adobeacrobatreader&logoColor=white" />
 </a>
 </p>
 
