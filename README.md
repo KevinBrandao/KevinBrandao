@@ -3,6 +3,9 @@
 ## <b> 💬 About me:</b>
 
 <p align="left">
+  <a href="https://kevinbrandao-portifolio.vercel.app/" alt="Portfólio">
+  <img height="30" src="https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-6C63FF?style=flat&logo=vercel&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/kevin-de-almeida-brand%C3%A3o-903b16138" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
